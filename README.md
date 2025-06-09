@@ -14,7 +14,6 @@
 <div>
 <a href="https://github.com/Ing-crist13">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-crist13&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ing-crist13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
           
 </div>          
